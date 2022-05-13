@@ -1,2 +1,2 @@
 # Triva-game
- A trivia game with multiple topics and questions
+ A trivia game with random questions
