@@ -6,8 +6,7 @@ Python
 
 ## Setup and Test
 This project uses python and Visual studio code. 
-Click [here](https://www.python.org/) to install python 
-Click [here](https://code.visualstudio.com/) to install VS Code
+Click [here](https://www.python.org/) to install python and click [here](https://code.visualstudio.com/) to install VS Code
 
 ## How to Contribute 🧐
 1. Claim your issue: Comment on the issue you would like to work on
